@@ -1,5 +1,5 @@
 The script file and the README file includes the description of work performed to clean up the data, here varaible names are presented
-
+The units of the original files found in "feature_info.txt" were not changed
 Varaiable names:
 
 "subject_id"                
